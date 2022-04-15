@@ -1,0 +1,26 @@
+.main {
+    text-align: center;
+    color: blue;
+  }
+  .inputbox {
+      margin: 5px;
+      padding: 5px;
+      width: 50px;
+      border-radius: 10px;
+      
+      
+  }
+  .submitbox {
+    margin: 5px;
+    padding: 5px;
+    width: 80px;
+    background: #000;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .submitbox:hover { 
+      background-color: white;
+      color: #000;
+      font-weight: 700;
+  }
